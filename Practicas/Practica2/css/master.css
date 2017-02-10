@@ -2,12 +2,40 @@ html, button, input, select, textarea
 {
     color: #222;
 }
-
+h1 {
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-shadow:-4px 6px 0px #000000;
+}
+h2{
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-shadow:10px 6px 24px #000000;
+}
+h3{
+  font-family: 'Indie Flower', cursive;
+}
 body
 {
     font-size: 1em;
     line-height: 1.4px;
     font: 16px Helvetica;
+}
+.transicion {
+transition:All 1s ease;
+-webkit-transition:All 1s ease;
+-moz-transition:All 1s ease;
+-o-transition:All 1s ease;
+transform: rotate(4deg) scale(1) skew(1deg) translate(10px);
+-webkit-transform: rotate(4deg) scale(1) skew(1deg) translate(10px);
+-moz-transform: rotate(4deg) scale(1) skew(1deg) translate(10px);
+-o-transform: rotate(4deg) scale(1) skew(1deg) translate(10px);
+-ms-transform: rotate(4deg) scale(1) skew(1deg) translate(10px);
+}
+.classname:hover{
+transform: rotate(0deg) scale(0.67) skew(1deg) translate(0px);
+-webkit-transform: rotate(0deg) scale(0.67) skew(1deg) translate(0px);
+-moz-transform: rotate(0deg) scale(0.67) skew(1deg) translate(0px);
+-o-transform: rotate(0deg) scale(0.67) skew(1deg) translate(0px);
+-ms-transform: rotate(0deg) scale(0.67) skew(1deg) translate(0px);
 }
 
 hr

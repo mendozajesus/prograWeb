@@ -46,16 +46,8 @@ section {
  * `article` contexts in Chrome, Firefox, and Safari.
  */
 
-h1 {
-  font-family: 'Open Sans Condensed', sans-serif;
-  text-shadow:-4px 6px 0px #000000;
-}
-h2{
-  font-family: 'Open Sans Condensed', sans-serif;
-}
-h3{
-  font-family: 'Indie Flower', cursive;
-}
+
+
 
 /* Grouping content
    ========================================================================== */

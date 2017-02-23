@@ -1,0 +1,40 @@
+
+.navbar-default{
+	background-color: white;
+}
+.principal{
+	background-color:rgb(241, 241, 241);
+	padding-left: 15px;
+	padding-top: 15px;
+	padding-right: 15px;
+	padding-bottom: 50px;
+}
+
+.listRepro{
+	color: red;
+	font-size: 80%;
+}
+.logo{
+	padding-top: 	4px;
+	padding-left: 20px;
+}
+.iconLogo{
+	padding-left: 20px;
+	padding-top: 12px;
+}
+.cajaBusqueda{
+padding-top: 6px;
+}
+.icon1{
+padding-left: 1px;
+padding-top: 10px;
+}
+
+.icon2{
+padding-left: 1px;
+padding-top: 10px;
+}
+.icon3{
+padding-left: 1px;
+padding-top: 10px;
+}

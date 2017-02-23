@@ -1,0 +1,91 @@
+
+.navbar-fixed-top{
+  background-color: rgb(59, 89, 152);
+}
+.colorPublicaciones{
+
+  background-color: white;
+}
+.textoAzulfb{
+  color: rgb(60, 97, 165);
+}
+
+.coloresGrisesEnSec3{
+    color: gray;
+    font-size: 70%;
+margin-left: 10px;
+}
+.grupoDeBotones{
+  padding-top: 1%;
+}
+.textoBanco{
+  color: white;
+}
+.colorGris{
+  color: gray;
+}
+.seccion3{
+margin-left: 10px;
+background-color: rgb(255, 255, 255);
+}
+
+.leftItem{
+  margin-right: 12px;
+}
+.mediaPublicaciones{
+  padding-top: 10px;
+}
+.fondofb{
+
+background-color: rgb(59, 89, 152);
+}
+
+.colorIconos{
+  color: rgb(11, 18, 30);
+}
+body {
+   padding-top: 70px;
+ }
+ .CajaBusqueda{
+  padding-top: 7px;
+  padding-left: 50px;
+ }
+ .logo{
+   padding-left: 110px;
+   padding-top:9px;
+ }
+.navbar-btn{
+    background-color: rgb(59, 89, 152);
+    color: white;
+}
+div.colderecha{
+  padding-top: 8px;
+  padding-left: 200px;
+}
+body{
+  background-color: rgb(233, 235, 238    );
+}
+.textoEnCol1{
+  color: rgb(79, 88, 109);
+  font-size: 85%;
+  padding-left: 17px;
+}
+.linkEnCol1{
+  color: rgb(59, 97, 174);
+  font-size: 100%;
+  padding-left: 17px;
+}
+
+
+.col1{
+
+  }
+.col2{
+  background-color: black;
+  }
+.col3{
+  background-color: green;
+  }
+.col4{
+  background-color: yellow;
+  }

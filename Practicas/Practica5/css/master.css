@@ -2,6 +2,15 @@
 .navbar-fixed-top{
   background-color: rgb(59, 89, 152);
 }
+.list-group-item{
+  background-color: rgb(233, 235, 238);
+}
+.sinPadingDerecho{
+  padding-right: 0%;
+}
+.online{
+margin-left: 25%;
+}
 .colorPublicaciones{
 
   background-color: white;
